@@ -1,2 +1,2 @@
-# My-resume
-Full resume of my work timeline
+# My resume
+Within this project, you'lll find all the information about my career till now. 
